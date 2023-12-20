@@ -22,6 +22,8 @@ public static void main(String[]arg){
 class MyClass01{
     int number;
     char symbol;
+    
+    
     void set(int n){
         number = n;
     }
@@ -35,6 +37,7 @@ class MyClass01{
         set(s);
     }
 
+    //Метод без аргументов
     void set(){
         set(0, 'Z');
     }
