@@ -1,4 +1,4 @@
-public class UsingConstructorApplacation {
+class UsingConstructorApplacation {
     public static void main (String [] args)
     {
 //        создание перевого оббъекта

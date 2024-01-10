@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ShowMeWindowDemo {
+class ShowMeWindowDemo {
     public static void main (String[] args){
         String title;
         String text;

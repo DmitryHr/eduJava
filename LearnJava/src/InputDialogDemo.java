@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class InputDialogDemo {
+class InputDialogDemo {
     public static void main(String[] args){
         String text;
         text = JOptionPane.showInputDialog("Input text");

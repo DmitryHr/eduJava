@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class MyClass {
+class MyClass {
     int number;
     char symbol;
     void set(int n, char s){
