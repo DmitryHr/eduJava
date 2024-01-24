@@ -1,3 +1,5 @@
+package part3;
+
 class MyClass03{
     private static int count = 0;
 

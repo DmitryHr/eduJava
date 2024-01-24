@@ -1,3 +1,5 @@
+package part3;
+
 class UsingConstructorApplacation {
     public static void main (String [] args)
     {

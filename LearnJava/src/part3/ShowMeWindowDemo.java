@@ -1,3 +1,5 @@
+package part3;
+
 import javax.swing.JOptionPane;
 
 class ShowMeWindowDemo {

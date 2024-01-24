@@ -1,3 +1,5 @@
+package part3;
+
 class MyClass1251 {
     static int count = 0;
     MyClass1251(){
@@ -13,7 +15,7 @@ class MyClass1251 {
 
 class UsingStaticMembersDemo {
     public static void main (String [] args){
-//        MyClass1251 stMeth = new MyClass1251();
+//        part3.MyClass1251 stMeth = new part3.MyClass1251();
 //        stMeth.show();
 
         MyClass1251.show();
